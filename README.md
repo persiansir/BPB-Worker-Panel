@@ -52,7 +52,7 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 | **Nekobox**  |   | :x: | :x: |
 | **Sing-box**  | 1.8.10 or higher  | :x: | :x: |
 | **Streisand**  |   | :heavy_check_mark: | :x: |
-| **V2Box**  |   | :x: | :x: |
+| **V2Box**  |   | :x: | :x: | 
 | **Shadowrocket**  |   | :x: | :x: |
 | **Nekoray**  |   | :heavy_check_mark: | :x: |
 | **Hiddify**  | 2.0.5 or higher  | :x: | :heavy_check_mark: |
